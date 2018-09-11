@@ -1,1 +1,2 @@
-# encode_string_reprisentation
+# Encoding Techniques
+Demonstrates multiple compression techniques using strings reprisenting bits. 
